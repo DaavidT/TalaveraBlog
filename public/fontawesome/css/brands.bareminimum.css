@@ -35,6 +35,10 @@
   content: "\f092";
 }
 
+.fa-instagram:before {
+  content: "\f16d";
+}
+
 .fa-github-square:before {
   content: "\f092";
 }
