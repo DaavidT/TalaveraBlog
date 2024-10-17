@@ -1,4 +1,4 @@
-# Blogster David Talavera Template
+# Blogster Template
 
 
 Theme: **sleek**
