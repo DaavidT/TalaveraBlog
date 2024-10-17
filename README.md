@@ -1,4 +1,5 @@
-# Blogster David Talavera
+# Blogster David Talavera Template
+
 
 Theme: **sleek**
 
